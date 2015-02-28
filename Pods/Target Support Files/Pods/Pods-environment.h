@@ -1,0 +1,230 @@
+
+// To check if a library is compiled with CocoaPods you
+// can use the `COCOAPODS` macro definition which is
+// defined in the xcconfigs so it is available in
+// headers also when they are imported in the client
+// project.
+
+
+// AFNetworking
+#define COCOAPODS_POD_AVAILABLE_AFNetworking
+#define COCOAPODS_VERSION_MAJOR_AFNetworking 2
+#define COCOAPODS_VERSION_MINOR_AFNetworking 5
+#define COCOAPODS_VERSION_PATCH_AFNetworking 1
+
+// AFNetworking/NSURLConnection
+#define COCOAPODS_POD_AVAILABLE_AFNetworking_NSURLConnection
+#define COCOAPODS_VERSION_MAJOR_AFNetworking_NSURLConnection 2
+#define COCOAPODS_VERSION_MINOR_AFNetworking_NSURLConnection 5
+#define COCOAPODS_VERSION_PATCH_AFNetworking_NSURLConnection 1
+
+// AFNetworking/NSURLSession
+#define COCOAPODS_POD_AVAILABLE_AFNetworking_NSURLSession
+#define COCOAPODS_VERSION_MAJOR_AFNetworking_NSURLSession 2
+#define COCOAPODS_VERSION_MINOR_AFNetworking_NSURLSession 5
+#define COCOAPODS_VERSION_PATCH_AFNetworking_NSURLSession 1
+
+// AFNetworking/Reachability
+#define COCOAPODS_POD_AVAILABLE_AFNetworking_Reachability
+#define COCOAPODS_VERSION_MAJOR_AFNetworking_Reachability 2
+#define COCOAPODS_VERSION_MINOR_AFNetworking_Reachability 5
+#define COCOAPODS_VERSION_PATCH_AFNetworking_Reachability 1
+
+// AFNetworking/Security
+#define COCOAPODS_POD_AVAILABLE_AFNetworking_Security
+#define COCOAPODS_VERSION_MAJOR_AFNetworking_Security 2
+#define COCOAPODS_VERSION_MINOR_AFNetworking_Security 5
+#define COCOAPODS_VERSION_PATCH_AFNetworking_Security 1
+
+// AFNetworking/Serialization
+#define COCOAPODS_POD_AVAILABLE_AFNetworking_Serialization
+#define COCOAPODS_VERSION_MAJOR_AFNetworking_Serialization 2
+#define COCOAPODS_VERSION_MINOR_AFNetworking_Serialization 5
+#define COCOAPODS_VERSION_PATCH_AFNetworking_Serialization 1
+
+// AFNetworking/UIKit
+#define COCOAPODS_POD_AVAILABLE_AFNetworking_UIKit
+#define COCOAPODS_VERSION_MAJOR_AFNetworking_UIKit 2
+#define COCOAPODS_VERSION_MINOR_AFNetworking_UIKit 5
+#define COCOAPODS_VERSION_PATCH_AFNetworking_UIKit 1
+
+// BMXSwipableCell
+#define COCOAPODS_POD_AVAILABLE_BMXSwipableCell
+#define COCOAPODS_VERSION_MAJOR_BMXSwipableCell 1
+#define COCOAPODS_VERSION_MINOR_BMXSwipableCell 2
+#define COCOAPODS_VERSION_PATCH_BMXSwipableCell 6
+
+// CCBottomRefreshControl
+#define COCOAPODS_POD_AVAILABLE_CCBottomRefreshControl
+#define COCOAPODS_VERSION_MAJOR_CCBottomRefreshControl 0
+#define COCOAPODS_VERSION_MINOR_CCBottomRefreshControl 3
+#define COCOAPODS_VERSION_PATCH_CCBottomRefreshControl 1
+
+// CardIO
+#define COCOAPODS_POD_AVAILABLE_CardIO
+#define COCOAPODS_VERSION_MAJOR_CardIO 5
+#define COCOAPODS_VERSION_MINOR_CardIO 0
+#define COCOAPODS_VERSION_PATCH_CardIO 2
+
+// EAIntroView
+#define COCOAPODS_POD_AVAILABLE_EAIntroView
+#define COCOAPODS_VERSION_MAJOR_EAIntroView 2
+#define COCOAPODS_VERSION_MINOR_EAIntroView 7
+#define COCOAPODS_VERSION_PATCH_EAIntroView 0
+
+// EARestrictedScrollView
+#define COCOAPODS_POD_AVAILABLE_EARestrictedScrollView
+#define COCOAPODS_VERSION_MAJOR_EARestrictedScrollView 0
+#define COCOAPODS_VERSION_MINOR_EARestrictedScrollView 1
+#define COCOAPODS_VERSION_PATCH_EARestrictedScrollView 0
+
+// GoogleAnalytics-iOS-SDK
+#define COCOAPODS_POD_AVAILABLE_GoogleAnalytics_iOS_SDK
+#define COCOAPODS_VERSION_MAJOR_GoogleAnalytics_iOS_SDK 3
+#define COCOAPODS_VERSION_MINOR_GoogleAnalytics_iOS_SDK 0
+#define COCOAPODS_VERSION_PATCH_GoogleAnalytics_iOS_SDK 8
+
+// HTPressableButton
+#define COCOAPODS_POD_AVAILABLE_HTPressableButton
+#define COCOAPODS_VERSION_MAJOR_HTPressableButton 1
+#define COCOAPODS_VERSION_MINOR_HTPressableButton 3
+#define COCOAPODS_VERSION_PATCH_HTPressableButton 1
+
+// HTPressableButton/All
+#define COCOAPODS_POD_AVAILABLE_HTPressableButton_All
+#define COCOAPODS_VERSION_MAJOR_HTPressableButton_All 1
+#define COCOAPODS_VERSION_MINOR_HTPressableButton_All 3
+#define COCOAPODS_VERSION_PATCH_HTPressableButton_All 1
+
+// Lambda-Alert
+#define COCOAPODS_POD_AVAILABLE_Lambda_Alert
+#define COCOAPODS_VERSION_MAJOR_Lambda_Alert 1
+#define COCOAPODS_VERSION_MINOR_Lambda_Alert 0
+#define COCOAPODS_VERSION_PATCH_Lambda_Alert 1
+
+// MDCSwipeToChoose
+#define COCOAPODS_POD_AVAILABLE_MDCSwipeToChoose
+#define COCOAPODS_VERSION_MAJOR_MDCSwipeToChoose 0
+#define COCOAPODS_VERSION_MINOR_MDCSwipeToChoose 2
+#define COCOAPODS_VERSION_PATCH_MDCSwipeToChoose 2
+
+// Mantle
+#define COCOAPODS_POD_AVAILABLE_Mantle
+#define COCOAPODS_VERSION_MAJOR_Mantle 1
+#define COCOAPODS_VERSION_MINOR_Mantle 5
+#define COCOAPODS_VERSION_PATCH_Mantle 4
+
+// Mantle/extobjc
+#define COCOAPODS_POD_AVAILABLE_Mantle_extobjc
+#define COCOAPODS_VERSION_MAJOR_Mantle_extobjc 1
+#define COCOAPODS_VERSION_MINOR_Mantle_extobjc 5
+#define COCOAPODS_VERSION_PATCH_Mantle_extobjc 4
+
+// PNChart
+#define COCOAPODS_POD_AVAILABLE_PNChart
+#define COCOAPODS_VERSION_MAJOR_PNChart 0
+#define COCOAPODS_VERSION_MINOR_PNChart 7
+#define COCOAPODS_VERSION_PATCH_PNChart 5
+
+// PaymentKit
+#define COCOAPODS_POD_AVAILABLE_PaymentKit
+#define COCOAPODS_VERSION_MAJOR_PaymentKit 1
+#define COCOAPODS_VERSION_MINOR_PaymentKit 1
+#define COCOAPODS_VERSION_PATCH_PaymentKit 1
+
+// REMenu
+#define COCOAPODS_POD_AVAILABLE_REMenu
+#define COCOAPODS_VERSION_MAJOR_REMenu 1
+#define COCOAPODS_VERSION_MINOR_REMenu 10
+#define COCOAPODS_VERSION_PATCH_REMenu 0
+
+// ReactiveCocoa
+#define COCOAPODS_POD_AVAILABLE_ReactiveCocoa
+#define COCOAPODS_VERSION_MAJOR_ReactiveCocoa 2
+#define COCOAPODS_VERSION_MINOR_ReactiveCocoa 0
+#define COCOAPODS_VERSION_PATCH_ReactiveCocoa 0
+
+// ReactiveCocoa/Core
+#define COCOAPODS_POD_AVAILABLE_ReactiveCocoa_Core
+#define COCOAPODS_VERSION_MAJOR_ReactiveCocoa_Core 2
+#define COCOAPODS_VERSION_MINOR_ReactiveCocoa_Core 0
+#define COCOAPODS_VERSION_PATCH_ReactiveCocoa_Core 0
+
+// ReactiveCocoa/RACExtensions
+#define COCOAPODS_POD_AVAILABLE_ReactiveCocoa_RACExtensions
+#define COCOAPODS_VERSION_MAJOR_ReactiveCocoa_RACExtensions 2
+#define COCOAPODS_VERSION_MINOR_ReactiveCocoa_RACExtensions 0
+#define COCOAPODS_VERSION_PATCH_ReactiveCocoa_RACExtensions 0
+
+// ReactiveCocoa/no-arc
+#define COCOAPODS_POD_AVAILABLE_ReactiveCocoa_no_arc
+#define COCOAPODS_VERSION_MAJOR_ReactiveCocoa_no_arc 2
+#define COCOAPODS_VERSION_MINOR_ReactiveCocoa_no_arc 0
+#define COCOAPODS_VERSION_PATCH_ReactiveCocoa_no_arc 0
+
+// SDWebImage
+#define COCOAPODS_POD_AVAILABLE_SDWebImage
+#define COCOAPODS_VERSION_MAJOR_SDWebImage 3
+#define COCOAPODS_VERSION_MINOR_SDWebImage 7
+#define COCOAPODS_VERSION_PATCH_SDWebImage 1
+
+// SDWebImage/Core
+#define COCOAPODS_POD_AVAILABLE_SDWebImage_Core
+#define COCOAPODS_VERSION_MAJOR_SDWebImage_Core 3
+#define COCOAPODS_VERSION_MINOR_SDWebImage_Core 7
+#define COCOAPODS_VERSION_PATCH_SDWebImage_Core 1
+
+// SVProgressHUD
+#define COCOAPODS_POD_AVAILABLE_SVProgressHUD
+#define COCOAPODS_VERSION_MAJOR_SVProgressHUD 1
+#define COCOAPODS_VERSION_MINOR_SVProgressHUD 1
+#define COCOAPODS_VERSION_PATCH_SVProgressHUD 2
+
+// SVPullToRefresh
+#define COCOAPODS_POD_AVAILABLE_SVPullToRefresh
+#define COCOAPODS_VERSION_MAJOR_SVPullToRefresh 0
+#define COCOAPODS_VERSION_MINOR_SVPullToRefresh 4
+#define COCOAPODS_VERSION_PATCH_SVPullToRefresh 1
+
+// SVWebViewController
+#define COCOAPODS_POD_AVAILABLE_SVWebViewController
+#define COCOAPODS_VERSION_MAJOR_SVWebViewController 1
+#define COCOAPODS_VERSION_MINOR_SVWebViewController 0
+#define COCOAPODS_VERSION_PATCH_SVWebViewController 0
+
+// SWTableViewCell
+#define COCOAPODS_POD_AVAILABLE_SWTableViewCell
+#define COCOAPODS_VERSION_MAJOR_SWTableViewCell 0
+#define COCOAPODS_VERSION_MINOR_SWTableViewCell 3
+#define COCOAPODS_VERSION_PATCH_SWTableViewCell 7
+
+// Stripe
+#define COCOAPODS_POD_AVAILABLE_Stripe
+#define COCOAPODS_VERSION_MAJOR_Stripe 3
+#define COCOAPODS_VERSION_MINOR_Stripe 1
+#define COCOAPODS_VERSION_PATCH_Stripe 0
+
+// Stripe/Core
+#define COCOAPODS_POD_AVAILABLE_Stripe_Core
+#define COCOAPODS_VERSION_MAJOR_Stripe_Core 3
+#define COCOAPODS_VERSION_MINOR_Stripe_Core 1
+#define COCOAPODS_VERSION_PATCH_Stripe_Core 0
+
+// UICKeyChainStore
+#define COCOAPODS_POD_AVAILABLE_UICKeyChainStore
+#define COCOAPODS_VERSION_MAJOR_UICKeyChainStore 2
+#define COCOAPODS_VERSION_MINOR_UICKeyChainStore 0
+#define COCOAPODS_VERSION_PATCH_UICKeyChainStore 4
+
+// UICountingLabel
+#define COCOAPODS_POD_AVAILABLE_UICountingLabel
+#define COCOAPODS_VERSION_MAJOR_UICountingLabel 1
+#define COCOAPODS_VERSION_MINOR_UICountingLabel 0
+#define COCOAPODS_VERSION_PATCH_UICountingLabel 0
+
+// UIView+TKGeometry
+#define COCOAPODS_POD_AVAILABLE_UIView_TKGeometry
+#define COCOAPODS_VERSION_MAJOR_UIView_TKGeometry 0
+#define COCOAPODS_VERSION_MINOR_UIView_TKGeometry 2
+#define COCOAPODS_VERSION_PATCH_UIView_TKGeometry 0
+

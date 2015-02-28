@@ -1,0 +1,115 @@
+PODS:
+  - AFNetworking (2.5.1):
+    - AFNetworking/NSURLConnection (= 2.5.1)
+    - AFNetworking/NSURLSession (= 2.5.1)
+    - AFNetworking/Reachability (= 2.5.1)
+    - AFNetworking/Security (= 2.5.1)
+    - AFNetworking/Serialization (= 2.5.1)
+    - AFNetworking/UIKit (= 2.5.1)
+  - AFNetworking/NSURLConnection (2.5.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.1)
+  - AFNetworking/Security (2.5.1)
+  - AFNetworking/Serialization (2.5.1)
+  - AFNetworking/UIKit (2.5.1):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - BMXSwipableCell (1.2.6)
+  - CardIO (5.0.2)
+  - CCBottomRefreshControl (0.3.1):
+    - ReactiveCocoa (<= 2.0.0)
+    - UIView+TKGeometry
+  - EAIntroView (2.7.0):
+    - EARestrictedScrollView (~> 0.1.0)
+  - EARestrictedScrollView (0.1.0)
+  - GoogleAnalytics-iOS-SDK (3.0.8)
+  - HTPressableButton (1.3.1):
+    - HTPressableButton/All (= 1.3.1)
+  - HTPressableButton/All (1.3.1)
+  - Lambda-Alert (1.0.1)
+  - Mantle (1.5.4):
+    - Mantle/extobjc (= 1.5.4)
+  - Mantle/extobjc (1.5.4)
+  - MDCSwipeToChoose (0.2.2)
+  - PaymentKit (1.1.1)
+  - PNChart (0.7.5):
+    - UICountingLabel (~> 1.0.0)
+  - ReactiveCocoa (2.0):
+    - ReactiveCocoa/Core (= 2.0)
+    - ReactiveCocoa/no-arc (= 2.0)
+    - ReactiveCocoa/RACExtensions (= 2.0)
+  - ReactiveCocoa/Core (2.0):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.0)
+  - ReactiveCocoa/RACExtensions (2.0):
+    - ReactiveCocoa/Core
+  - REMenu (1.10)
+  - SDWebImage (3.7.1):
+    - SDWebImage/Core (= 3.7.1)
+  - SDWebImage/Core (3.7.1)
+  - Stripe (3.1.0):
+    - Stripe/Core (= 3.1.0)
+  - Stripe/Core (3.1.0)
+  - SVProgressHUD (1.1.2)
+  - SVPullToRefresh (0.4.1)
+  - SVWebViewController (HEAD based on 1.0)
+  - SWTableViewCell (0.3.7)
+  - UICKeyChainStore (2.0.4)
+  - UICountingLabel (1.0.0)
+  - UIView+TKGeometry (0.2)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.3)
+  - BMXSwipableCell
+  - CardIO
+  - CCBottomRefreshControl
+  - EAIntroView
+  - GoogleAnalytics-iOS-SDK (= 3.0.8)
+  - HTPressableButton
+  - Lambda-Alert
+  - Mantle
+  - MDCSwipeToChoose
+  - PaymentKit
+  - PNChart
+  - REMenu (~> 1.10)
+  - SDWebImage
+  - Stripe
+  - SVProgressHUD
+  - SVPullToRefresh
+  - SVWebViewController (HEAD)
+  - SWTableViewCell
+  - UICKeyChainStore
+
+SPEC CHECKSUMS:
+  AFNetworking: 8bee59492a6ff15d69130efa4d0dc67e0094a52a
+  BMXSwipableCell: 159bca16d64083f2485c7d4f5bfb9f8f13a046a4
+  CardIO: d159b9e108ad70e0a23cf1bf12d3b66a395a597a
+  CCBottomRefreshControl: 919ae5ac102b421da37fcda0ae40dd2cf625b1c7
+  EAIntroView: 2284bb6d9105035cb09f8952933e83591f0a81ca
+  EARestrictedScrollView: 6023847998f13e2d80dff2d575181c2598349507
+  GoogleAnalytics-iOS-SDK: a3206c68ee5f2a014ed67383d1f779072b653988
+  HTPressableButton: 8ac2184c6d0b9a0d78aaa1727acf51e4365fa1d2
+  Lambda-Alert: ba4824adee17127ef43d82d63be8affa536163cc
+  Mantle: d5fbaf30fbc58031223af13812c060e15934a1fe
+  MDCSwipeToChoose: b14f3becc0011634d2f0a37f488b768b824a643d
+  PaymentKit: f77b4d5cee45947949429c3d587e8eb160a3c9e2
+  PNChart: 18d4c57f43df3357ab14b3847a930f36d1fbce48
+  ReactiveCocoa: 27cc8d4b5baa6460881f961131ce917813538929
+  REMenu: e3988747d83f9e8f49f244bd3f1fb8b0900e8741
+  SDWebImage: 116e88633b5b416ea0ca4b334a4ac59cf72dd38d
+  Stripe: aaa174b50fac40a16958cbc892457a241d0b4b08
+  SVProgressHUD: da7a49e789af645d9279ffbca62318945a832438
+  SVPullToRefresh: d5161ebc833a38b465364412e5e307ca80bbb190
+  SVWebViewController: fbf917baa92744c54cfb89a52a4c056e409973a4
+  SWTableViewCell: 25de71898e3fcd11cf75707ef90245acf990ec03
+  UICKeyChainStore: 2399076d0950e20fe859b8f817548cf6ca542dd7
+  UICountingLabel: 0a0e9e34bf4690dbd127aaec552d19ed938087a9
+  UIView+TKGeometry: 60a88dcf2af8420175cb1c789a02d6254ebb89a7
+
+COCOAPODS: 0.36.0.beta.1
